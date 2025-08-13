@@ -1,9 +1,9 @@
 # About Me:
 🎓 AI/ML Developer <br>  
-🌐 Passionate about AI/ML, GenAI and Data Science <br>
+🌐 Passionate about AI, ML, Generative AI <br>
 🚀 Always learning, building, and sharing<br>
 💬 Ask me about AI/ML<br>
-⚡ Fun fact: Qurious Panda 🐼<br>
+⚡ Fun fact: Qurious Panda 🐼 <br>
 
 
 ## 🌐 Socials:
@@ -19,4 +19,5 @@
 </picture>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
