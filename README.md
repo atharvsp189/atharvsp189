@@ -1,5 +1,5 @@
 # About Me:
-🎓 AI and Data Science Student<br>  
+🎓 AI/ML Developer <br>  
 🌐 Passionate about AI/ML, GenAI and Data Science <br>
 🚀 Always learning, building, and sharing<br>
 💬 Ask me about AI/ML<br>
@@ -19,3 +19,4 @@
 </picture>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
